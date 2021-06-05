@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PracticeAdvancedGUI</string>
+    <string name="welcome">Welcome</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="insert">Insert</string>
+    <string name="remove">Remove</string>
+    <string name="empty">Empty</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="edit">Edit</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="dash">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="des">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blank1">FragmentBlank1</string>
+    <string name="blank2">FragmentBlank2</string>
+    <string name="blank3">FragmentBlank3</string>
+    <string name="fragment1">Fragment One</string>
+    <string name="fragment2">Fragment Two</string>
+    <string name="fragment3">Fragment Three</string>
+    <string name="fragment4">Fragment Four</string>
+</resources>
