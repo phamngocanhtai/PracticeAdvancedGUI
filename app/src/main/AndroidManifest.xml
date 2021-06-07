@@ -11,16 +11,16 @@
         android:theme="@style/Theme.PracticeAdvancedGUI">
         <activity android:name=".swiperefreshlayout.MainActivity11"
             android:theme="@style/Theme.UserPracticeAdvancedGUI">
+
+        </activity>
+        <activity
+            android:name=".drawerlayout.MainActivity10"
+            android:theme="@style/Theme.UserPracticeAdvancedGUI">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name=".drawerlayout.MainActivity10"
-            android:theme="@style/Theme.UserPracticeAdvancedGUI">
-
         </activity>
         <activity
             android:name=".bottomnavigation.MainActivity9"

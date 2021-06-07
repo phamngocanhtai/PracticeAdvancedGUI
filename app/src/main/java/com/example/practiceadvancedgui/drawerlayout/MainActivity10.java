@@ -23,6 +23,7 @@ public class MainActivity10 extends AppCompatActivity {
     DrawerLayout drawerLayout;
     Toolbar toolbar;
     NavigationView navigationView;
+    View headerView;
     ActionBarDrawerToggle actionBarDrawerToggle;
     TextView txtUser;
 
@@ -50,7 +51,7 @@ public class MainActivity10 extends AppCompatActivity {
         });
         ShowFragment(R.id.mnuHome);
 
-        View headerView = navigationView.getHeaderView(0);
+        headerView = navigationView.getHeaderView(0);
         txtUser = headerView.findViewById(R.id.txtUser);
         txtUser.setText("abc@example.com");
     }
